@@ -2,7 +2,7 @@ import RPi.GPIO as gpio
 
 
 # Setting Up RPIO
-://pythonhosted.org/RPIO/rpio_py.html#
+https://pythonhosted.org/RPIO/rpio_py.html#
 
 cd ~/Documents
 mkdir py
