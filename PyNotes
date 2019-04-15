@@ -1,0 +1,16 @@
+import RPi.GPIO as gpio
+
+
+# Setting Up RPIO
+://pythonhosted.org/RPIO/rpio_py.html#
+
+cd ~/Documents
+mkdir py
+cd py
+sudo apt-get install python-dev python3-dev
+git clone https://github.com/metachris/RPIO.git --branch v2 --single-branch
+cd RPIO
+sudo python setup.py install
+sudo python3 setup.py install
+
+
